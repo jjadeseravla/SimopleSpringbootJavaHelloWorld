@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 // results in web requests returning data rather than a view.
 public class HelloController {
 
-    @RequestMapping("/")
+    @RequestMapping("/api")
     public String index() {
         return "Hello World";
     }

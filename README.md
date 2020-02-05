@@ -21,3 +21,7 @@ Navigate to: ``` /Users/jadealvares/Documents/Practise/simpleSpringboot/src/test
 and press the run button to play the intergration test.
 and: ``` /Users/jadealvares/Documents/Practise/simpleSpringboot/src/test/java/com/example/springboot/HelloControllerTest.java```
 and press the run button to play the unit test
+
+### To Do:
+- Incorporate GET and POST endpoints
+- Possible Database Integration
